@@ -1,23 +1,17 @@
-# Common text title
+# Portfolio
 
-repo name
+Repository name: portfolio
 
 ## Description 
 
-This project is / does...
+This portfolio and resume represent my experience to date.  You are welcome to contact me with any available opportunities.
 
 
 ## Technologies
 
-Technologies used on this project include:
+Technologies used on this portfolio include:
 * HTML
-* CSS
-* 3rd Part API (Tailwind)
-* DayJS
-* 
-*
-*
-*
+* 3rd Party API (Tailwind)
 
 
 ## Table of Contents (Optional)
@@ -28,32 +22,49 @@ Technologies used on this project include:
 
 ## Installation
 
-No installation is required; simply visit: https://blec333.github.io/project/ to review my deployed site.
+No installation is required; simply visit: https://blec333.github.io/portfolio/ to review my deployed site.
 
 
 ## Usage 
 
-To begin using this site after loading:
+Click the buttons to visit examples of my work.  My resume can be downloaded simply by clicking on the resume button.
 
-Simply type in...
+Non-web based applications:
 
-Click the buttons to...
+C#.NET:
+* Requires installation of Autodesk AEC Suite including Fabrication CADmep software to evaluate functionality.  If able and so desired, please appload into Fabrication CADmep and test the provided custom commands.
+* Written using .NET Framework 4.6.5
 
-Your information will be saved...
+Python:
+* Requires installation of Autodesk AEC Suite - Revit and Dynamo.  Load Python nodes into Dynamo.
+
+Dynamo:
+* Requires installation of Autodesk AEC Suite - Revit and Dynamo.  Load Dynamo script into Revit.
+
+Lisp:
+* Requires installation of Autodesk AEC Suite including Fabrication CADmep software to evaluate functionality.
+* Provided resource files must be loaded into the default installation directory (replacing default files); this ensures data is properly exposed to the application for parsing and use in functions.
+
+VBA & VB.NET:
+* Requires installation of Autodesk AEC Suite including Fabrication CADmep software to evaluate functionality.
+
+VBA:
+* Requires only Excel to open and review.
+
 
 ## Final Product
 
+<img title="image" alt="Style Showcase Page Screenshot" src="./assets/images/image3.gif">
 <img title="image" alt="Style Showcase Page Screenshot" src="./assets/images/image1.jpg">
 <img title="image" alt="Style Showcase Page Screenshot" src="./assets/images/image2.jpg">
-<img title="image" alt="Style Showcase Page Screenshot" src="./assets/images/image3.gif">
 
 
 
 Deployed Application
-https://blec333.github.io/project/
+https://blec333.github.io/portfolio/
 
 Github Repository
-https://github.com/Blec333/project
+https://github.com/Blec333/portfolio
 
 
 ### License
